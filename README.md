@@ -1,0 +1,2 @@
+Hola
+<strong>Hola</strong>
